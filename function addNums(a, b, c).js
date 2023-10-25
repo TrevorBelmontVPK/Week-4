@@ -6,7 +6,8 @@ function addNums(a, b, c) {
     else { 
        sum = a + b + c; 
     } 
-    console.log(sum);   // this displays 11 
+    console.log(sum);   
  } 
   
  let x = addNums(-1, 3, 7)
+ 
