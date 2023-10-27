@@ -1,6 +1,6 @@
 //min_max.js
 
-let studentName = "Betty";
+let studentName = "Ben";
 let studentMajor = "HIST";
 let locationCourse
 let majorName 
